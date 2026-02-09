@@ -15,13 +15,6 @@ items:
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Personnes
-  target: "/personnes/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 - title: Organisations
   target: "/"
   kind: page
@@ -29,4 +22,11 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Personnes
+  target: "/personnes/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
 
